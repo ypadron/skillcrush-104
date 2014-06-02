@@ -1,1 +1,1 @@
-puts "Today was a beautiful day!"
+puts "Today was a gorgeous day"
