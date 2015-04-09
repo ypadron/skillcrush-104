@@ -2,7 +2,7 @@
 
 /**Erin's style sheet**/
 body.erinorr-advice{
-  
+
   color: dime-grey ;
   font-family:'Crushed', cursive;
   font-size: 20px;
@@ -14,7 +14,7 @@ body.erinorr-advice{
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
- }	
+ }
 /**Erin's style sheet**/
 
 /**Kristin Linde's Styles**/
@@ -919,7 +919,7 @@ border-radius:0 5px 5px 0;}
 
 /**** TIARA IS STYLISH maybe ****/
 
-.tiara-advice-ahoy {  
+.tiara-advice-ahoy {
 	border: 1px solid #B62084;
 	background-color:#CD96CD;
 	color:#B62084;
@@ -984,7 +984,7 @@ border-radius:0 5px 5px 0;}
 
 /** davida's style **/
 
-.davida-advice {  
+.davida-advice {
 	border: 1px solid #737CA1;
 	border-radius: 20px;
 	background-color: #F0F8FF;
@@ -1038,7 +1038,7 @@ border-radius:0 5px 5px 0;}
   	background-color:gainsboro;
   	background-position: center;
   	background-attachment: fixed;
- 	 -webkit-background-size: cover; 
+ 	 -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
  	 background-size: cover;
@@ -1051,7 +1051,7 @@ border-radius:0 5px 5px 0;}
 /** End of Eve's style **/
 
 /** Amanda's style **/
-.amandalglittle-advice {  
+.amandalglittle-advice {
 	background-color: #CAE4EB;
 	color: #52094E;
 	padding: 20px;
@@ -1093,7 +1093,7 @@ border-radius:0 5px 5px 0;}
 	color: white;
 	line-height: 30px;
 	padding: 30px;
-	font-size: 18px;	
+	font-size: 18px;
 }
 /** end of Amanda's style **/
 
@@ -1127,3 +1127,37 @@ border-radius:0 5px 5px 0;}
     background: blue;
 }
 /** end of Amanda's style **/
+
+/** Yasmeen's CSS styles **/
+.yasmeenpadron-advice body {
+  width: 80%;
+  margin: 50px;
+  font-family: helvetica;
+
+}
+
+.yasmeenpadron-advice h1 {
+  font-size: 2.5em;
+  color: WhiteSmoke;
+  text-align: center;
+  background: DarkCyan;
+  padding: 50px 25px;
+  border-radius: 15px;
+}
+
+.yasmeenpadron-advice h4 {
+  font-size: 1.75em;
+}
+
+.yasmeenpadron-advice p {
+  font-size: 1.25em;
+  margin: 10px;
+}
+
+.yasmeenpadron-advice footer {
+  text-align: center;
+  color: DarkCyan;
+  font-size: .75em;
+  padding: 115px 10px 0px;
+  border-radius: 15px;
+}
