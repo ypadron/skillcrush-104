@@ -1128,6 +1128,39 @@ border-radius:0 5px 5px 0;}
 }
 /** end of Amanda's style **/
 
+/** Vicki's styles **/
+.vickigreer-advice {
+	color: darkblue;
+	background-color: gold;
+	font-family: Arial, sans-serif;
+}
+/** end of Vicki's styles **/
+
+/* Justin's Styles */
+
+.justinsmith-advice {
+	background-color: #99badd;
+	color: ivory;
+	font-family: helvetica, sans-serif ;
+	line-height: 15px;
+}
+
+.justinsmith-advice h1 {
+	width: 600px;
+	margin: 40px auto;
+	line-height: 25px;
+}
+
+.justinsmith-advice div {
+	width: 600px;
+	margin: 25px auto;
+}
+
+.justinsmith-advice footer {
+	text-align: center;
+
+}
+
 /** Yasmeen's CSS styles **/
 .yasmeenpadron-advice body {
   width: 80%;
@@ -1158,6 +1191,6 @@ border-radius:0 5px 5px 0;}
   text-align: center;
   color: DarkCyan;
   font-size: .75em;
-  padding: 115px 10px 0px;
+  padding: 30px 10px 0px;
   border-radius: 15px;
 }
